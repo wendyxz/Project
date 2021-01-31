@@ -17,4 +17,4 @@ run "SnakeGame.main.py"
 ```
 
 # Game Display
-![RUNNING IMAGE](demonstration/running.gif)
+![Running IMAGE](TextImage/running.PNG)
