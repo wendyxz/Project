@@ -16,4 +16,4 @@ run "python SkiGame.py"
 ```
 
 # Game Display
-![IMAGE](demonstration/running.gif)
+![IMAGE](TextImage/running.PNG)
