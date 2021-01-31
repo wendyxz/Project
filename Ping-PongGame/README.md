@@ -16,4 +16,4 @@ run "python Ping-PongGame.main.py"
 ```
 
 # Game Display
-![TextImage](demonstration/running.gif)
+![Text Image](TextImage/running2.PNG)
