@@ -4,7 +4,7 @@ The Ping-Pong Game using the spirites and utils
 # Environment
 ```
 OS: Windows10
-Python: Python3.5+(have installed necessary dependencies)
+Python: Python3.9(have installed necessary dependencies)
 ```
 
 # Usage
@@ -16,4 +16,4 @@ run "python Ping-PongGame.main.py"
 ```
 
 # Game Display
-![Text Image](TextImage/running2.PNG)
+![TestImage](TextImage/running2.PNG)
