@@ -16,4 +16,4 @@ run "python cal.machine.py"
 ```
 
 # Game Display
-![TestImage](TestImage/running.PNG)
+![TestImage](https://github.com/wendyxz/PythonGame/blob/main/Cal.machineGame/cal.pink.run.PNG)
