@@ -16,4 +16,4 @@ run "python GoldenEggGame.py"
 ```
 
 # Game Display
-![testimage]()
+![testimage](https://github.com/wendyxz/PythonGame/blob/main/GoldenEggGame/resources/images/running.png)
