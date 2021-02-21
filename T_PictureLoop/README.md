@@ -16,4 +16,4 @@ run "python PictureLoop.py"
 ```
 
 # Game Display
-![test_image]()
+![test_image](https://github.com/wendyxz/Python_Games/blob/main/T_PictureLoop/images/test.run.PNG)
