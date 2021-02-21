@@ -1,2 +1,2 @@
-# PythonGame
+# Python Games
 games with python3
