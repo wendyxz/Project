@@ -15,4 +15,4 @@ run "python PlaneGame.main.py"
 ```
 
 # Game Display
-![test_image](images/test_run.gif)
+![test_image](https://github.com/wendyxz/PythonGame/blob/main/PlanGame/resources/images/test_run.PNG)
