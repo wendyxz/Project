@@ -5,13 +5,13 @@ Simple snake game using pygame
 # Environment
 ```
 OS: Windows10
-Python: Python3.5+(have installed necessary dependencies)
+Python: Python3.5+
 ```
 
 # Usage
 ```
 Step1:
-pip install -r requirements.txt
+pip install pygame
 Step2:
 run "SnakeGame.main.py"
 ```
