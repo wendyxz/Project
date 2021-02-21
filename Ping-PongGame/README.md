@@ -4,13 +4,13 @@ The Ping-Pong Game using the spirites and utils
 # Environment
 ```
 OS: Windows10
-Python: Python3.9(have installed necessary dependencies)
+Python: Python3.9
 ```
 
 # Usage
 ```
 Step1:
-pip install -r requirements.txt
+pip install pygame
 Step2:
 run "python Ping-PongGame.main.py"
 ```
