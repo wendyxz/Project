@@ -1,5 +1,8 @@
 # Introduction
-The Ping-Pong Game using the spirites and utils
+
+- Created using Python and Pygame with single and double player modes available
+- Player controls racket using arrow keys and catches falling balls to score
+
 
 # Environment
 ```
