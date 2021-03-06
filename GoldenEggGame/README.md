@@ -1,6 +1,7 @@
 # Introduction
 The "Golden Egg Game" with python.
-
+- Player controls figure using arrow keys and collects falling golden eggs and hearts to score
+- Created using Pygame with elements of golden egg, heart and background designed using Procreate
 # Environment
 ```
 OS: Windows10
