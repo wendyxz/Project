@@ -1,6 +1,7 @@
 # Introduction
 
-Simple snake game using pygame
+- Player controls snake using arrow keys with the length of snake increasing as each randomly appearing berry is eaten
+- A variant inspired by Nokia Snake with faster motion and larger display
 
 # Environment
 ```
