@@ -1,4 +1,6 @@
-
+- Created using Pygame with single and double player modes available
+- Player controls spaceship using arrow keys to dodge planets and shoots planets using space bar to score
+- Posted on social media for friends to play and received positive reviews
 
 # Environment
 ```
