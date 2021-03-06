@@ -1,5 +1,5 @@
 # Introduction
-The calculater game using the tkinter.
+ An adaptation with display in Python inspired by a C course assignment and created using Tkinter
 
 # Environment
 ```
