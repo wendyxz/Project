@@ -18,4 +18,4 @@ run "python PhotoChange.py"
 ```
 
 # Game Display
-![TestImage]()
+![TestImage](https://github.com/wendyxz/Projects/blob/main/PhotoChange/test.run.PNG)
