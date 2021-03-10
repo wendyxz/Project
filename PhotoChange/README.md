@@ -1,5 +1,5 @@
 # Introduction
-The tool for changing the background color of ID photos using the cv2 and Numpy.
+A tool for changing the background color of ID photos using the cv2 and Numpy.Built with Numpy and CV2.
 
 # Environment
 ```
