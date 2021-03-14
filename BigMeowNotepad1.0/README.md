@@ -17,4 +17,4 @@ run "python BigMeow1.0.py"
 ```
 
 # Game Display
-![TestImage]()
+![TestImage](https://github.com/wendyxz/Projects/blob/main/BigMeowNotepad1.0/BigMeow.test4.PNG)
