@@ -109,7 +109,7 @@ public class CustomShaderGUI : ShaderGUI
         //Custom reflector
         //if (!IsSpecificProperty("CUSTOM_REFLECTIONPROBE", 1) && name.StartsWith("_CustomReflectionProbe"))
         //    return true;
-        //天气
+        //Weather
         if (!Shader.IsKeywordEnabled("RAIN_EFFECT") && name.StartsWith("_Rain"))
             return true;
         if (name == "_RainEffectParams")
