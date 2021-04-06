@@ -2,7 +2,7 @@
 using UnityEditor;
 
 /// <summary>
-/// 通用自定义ShaderGUI界面，自动处理Shader Alpha Blend,Alpha Test宏设置
+/// Universal custom ShaderGUI interface, automatic processing of Shader Alpha Blend, Alpha Test macro settings
 /// </summary>
 public class CustomShaderGUI : ShaderGUI
 {
@@ -82,22 +82,22 @@ public class CustomShaderGUI : ShaderGUI
 
     public virtual bool ShowCustomShaderProperty(string name, string description, MaterialProperty property)
     {
-        //多材质mask区分
+        //Multi-material mask distinction
         if (IsSpecificProperty("CHANNELMODE", 0) && name == "NDF_SECOND")
             return true;
-        //皮肤
+        //Skin
         if (!IsSpecificProperty("DIFFUSE_TYPE", 3) && (name.StartsWith("_Skin")))
             return true;
-        //各向异性
+        //
         if (!(IsSpecificProperty("NDF", 1) || IsSpecificProperty("NDF", 2)) && name == "_Anisotropic")
             return true;
-        //丝袜
+        //Stockings
         if (!IsSpecificProperty("SPECIAL_MAT", 1) && name.StartsWith("_Stocking"))
             return true;
-        //眼球matcap
+        //matcap
         if (!IsSpecificProperty("SPECIAL_MAT", 2) && name.StartsWith("_Matcap"))
             return true;
-        //头发效果
+        //Hair effect
         if (!IsSpecificProperty("SPECIAL_MAT", 3) && name.StartsWith("_Hair"))
             return true;
 
@@ -106,7 +106,7 @@ public class CustomShaderGUI : ShaderGUI
 
     public bool HandleCommonProperty(string name, string description, MaterialProperty property)
     {
-        //自定义反射球
+        //Custom reflector
         //if (!IsSpecificProperty("CUSTOM_REFLECTIONPROBE", 1) && name.StartsWith("_CustomReflectionProbe"))
         //    return true;
         //天气
